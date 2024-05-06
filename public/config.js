@@ -3,7 +3,7 @@ window.config={
     theme:false,
     
     // 后端网址配置
-    hosturl:"https://xxxxx.com/",
+    hosturl:"https://m3.heycloud.uk/",
     title:"xx-加速器",
     title1:"快速高效与世界连接",
     title2:"快速,可靠,信赖",
